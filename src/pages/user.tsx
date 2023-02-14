@@ -82,7 +82,7 @@ const UserPage: NextPage = () => {
               type="submit"
               className="w-auto rounded-md bg-emerald-700 px-5 py-2 text-white"
             >
-              Submit
+              Add User
             </button>
           </div>
         </form>
